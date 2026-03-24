@@ -187,13 +187,6 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
-
-**Sanjay S**
-Engineering Student | Security Enthusiast
-
----
-
 ## ⭐ Final Thought
 
 > “In Honey Encryption, failure is indistinguishable from success.”
