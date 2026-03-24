@@ -1,0 +1,44 @@
+{
+    "san123": {
+        "salt": "a573b43342adec581285792075aaf675",
+        "cipher": {
+            "nonce": "v8GiJMiRwGOAdnci",
+            "cipher": "aGLCROegAWzJxXe3U2xoXQaYOehpc9T3tP4W+f7ywdy9wKyCKnlTsrafE1FBmlda+evM5cGYu2x7T4bQC0BeofZAQEJSyrwWbXBZVFfVF2w="
+        }
+    },
+    "sanjay": {
+        "salt": "6b7d5b95be9c1276c88f851e2e0b952b",
+        "cipher": {
+            "nonce": "cr/+ATgMDuRE62Mi",
+            "cipher": "9O06LtOqrwoauVPPXuo7sj1shg7G/48WELqjmqJkMzWeB26PuxNkN+8uDECYpq5nc7ODh5ESV2WTX5ADNkQkIAMN2SdVV0/CEqbCzkvdcrA="
+        }
+    },
+    "dharma": {
+        "salt": "8c06425dbae08bfe7c443a8fd54732dc",
+        "cipher": {
+            "nonce": "yqSPlqDrIVLXUa3p",
+            "cipher": "+KO/wcECZHA2/DltRRzaA/qEAUYTPOo4cvQzH61QYqZgHUWyJDcThI0uIm2ovz/BmX66pJpL9MVswsnkmMzoirOynm9ifD+3iYBzl9Cq51k="
+        }
+    },
+    "harsh": {
+        "salt": "7d5c4c4955a2fa39ce04a4214e2838ab",
+        "cipher": {
+            "nonce": "pfGd1e6FeKoqdd6A",
+            "cipher": "XslBKZdA0Q6R/pR5ZZB4oEIl/8Sz5OG6diGTQJVYnvY3o75JSJuZzXLxJYbqDTjxdghSfFVUZcckdJ7W0Q/AcCz/v11bt6v8t1ianINMKVY="
+        }
+    },
+    "whitedevil": {
+        "salt": "55a3ee790a87303ac93f286c22c22dfb",
+        "cipher": {
+            "nonce": "DLF0X3Gt/bEvyoyW",
+            "cipher": "Hq7wmh+jU5visKvOyBQJoEN6WWrhvBFLOzbK27ZlqqtcxYkHXYmQFqV6Ho53aAW1rnnASzapCbw52vRtm4B9uQbTKsS7sIjr4skb5fqGzYY="
+        }
+    },
+    "DarkAngel": {
+        "salt": "5d7ecf0286fbfb98d8c09f01ce51c539",
+        "cipher": {
+            "nonce": "CBRqO6xAw4nws+5e",
+            "cipher": "Yb0so87zR9FX0R3/UnjUuQQcuXsiRei2IywsjpyJyciIbEvyIFXIg/Ex7zZwZJf0lwgqY/auei2uVbM8k7iZdz/GouKHs8KyeqdrrxrjYzg="
+        }
+    }
+}

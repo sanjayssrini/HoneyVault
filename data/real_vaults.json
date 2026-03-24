@@ -1,0 +1,22 @@
+[
+  {
+    "email": "alice@gmail.com",
+    "password": "Alice@1234",
+    "notes": "Primary bank account"
+  },
+  {
+    "email": "bob@yahoo.com",
+    "password": "Bob#9988",
+    "notes": "Personal email credentials"
+  },
+  {
+    "email": "charlie@outlook.com",
+    "password": "Char!2023",
+    "notes": "UPI backup PIN"
+  },
+  {
+    "email": "david@gmail.com",
+    "password": "Dav@Secure9",
+    "notes": "Work account"
+  }
+]

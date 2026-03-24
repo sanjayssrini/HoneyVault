@@ -1,0 +1,5 @@
+cryptography
+scikit-learn
+numpy
+pandas
+matplotlib
