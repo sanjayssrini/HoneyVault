@@ -57,7 +57,8 @@ HoneyVault/
 │   ├── login_attempts.json
 │
 ├── app.py              # Streamlit Web App
-├── cli.py              # CLI Version
+├── main.py              # CLI Version
+├── requirements.txt
 └── README.md
 ```
 
@@ -109,7 +110,7 @@ This ensures:
 ### 1️⃣ Install Dependencies
 
 ```bash
-pip install streamlit
+pip install -r requirements.txt
 ```
 
 ---
@@ -125,7 +126,7 @@ streamlit run app.py
 ### 3️⃣ Run CLI Version
 
 ```bash
-python cli.py
+python main.py
 ```
 
 ---
